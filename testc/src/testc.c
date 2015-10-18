@@ -12,6 +12,7 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	printf("1*2=%f", 1.0 * 2);
+
 	return EXIT_SUCCESS;
 }
